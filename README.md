@@ -17,7 +17,7 @@ Here are a few noteworthy projects I have worked on:
 2. **Project: Videogames App**
 3. **Project: Rick & Morty App**
 
-Check out my [GitHub repositories](https://github.com/santigalardi) for more projects and code samples.
+Check out my [GitHub repositories](https://github.com/santigalardi?tab=repositories) for more projects and code samples.
 
 ## Contact Information
 You can reach me via:
