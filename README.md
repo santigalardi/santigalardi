@@ -1,6 +1,6 @@
 # Hi, I'm Santiago 👋
 
-I'm a Full Stack Developer with a strong inclination towards back-end development. My background in architecture and construction has equipped me with valuable skills in analysis, project management, team leadership, and adaptability in work processes. Always willing to learn and step out of my comfort zone.
+Full Stack Developer with a background in Henry Bootcamp and Coderhouse, which helped me develop skills in communication, organization, problem-solving, and leadership. Specialized in Frontend and familiar with agile methodologies, GIT, data structures, algorithms, and CSS frameworks. I have experience in Front End and Back End development using JavaScript, React, Node, Express, Sequelize, with adaptability, perseverance, and sociability.
 
 ## Skills and Technologies
 - **Frontend**: React, Redux, HTML, CSS, Bootstrap
