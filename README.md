@@ -13,9 +13,11 @@ Full Stack Developer with a background in Henry Bootcamp and Coderhouse, which h
 ## Projects
 Here are a few noteworthy projects I have worked on:
 
-1. **Project: The Art Gallery**
-2. **Project: Videogames App**
-3. **Project: Rick & Morty App**
+1. **The Art Gallery**
+2. **Videogames App**
+3. **Rick & Morty App**
+4. **Infinity Games**
+5. **Jack & Johnson's**
 
 Check out my [GitHub repositories](https://github.com/santigalardi?tab=repositories) for more projects and code samples.
 
