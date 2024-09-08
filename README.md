@@ -1,6 +1,11 @@
 # Hi, I'm Santiago 👋
 
-I'm a Full Stack Developer with a solid foundation in web development, honed through intensive bootcamps at Henry and Coderhouse. Over the past year, I've further developed my skills, particularly in Next.js and TypeScript, and gained experience in building scalable and responsive web applications. My journey has also deepened my understanding of mobile-first design and UI/UX best practices. I thrive in collaborative environments and enjoy solving complex problems with a focus on both efficiency and user experience.
+I am a developer focused on creating intuitive and efficient web interfaces. I have developed a strong ability to solve technical
+problems creatively, as demonstrated in the KrowTi project by implementing Redux Toolkit to manage complex states. My
+experience in collaborative projects has strengthened my ability to work in a team and adapt quickly to new challenges.
+Additionally, my involvement in developing an electronic music website has allowed me to continue learning and applying
+new ideas creatively and effectively. This has been crucial in improving my skills and making meaningful contributions to
+every project I've participated in.
 
 ## Skills and Technologies
 - **Frontend**: React, Next.js, Redux, Tailwind, Bootstrap, TypeScript, HTML, CSS
